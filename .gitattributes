@@ -1,1 +1,2 @@
 *.safetensors filter=lfs diff=lfs merge=lfs -text
+vinallama-7b-fake-news-cot-tuned/*.safetensors filter=lfs diff=lfs merge=lfs -text
