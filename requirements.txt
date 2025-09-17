@@ -1,0 +1,15 @@
+gradio
+google-api-python-client
+google-generativeai
+torch
+datasets
+transformers
+peft
+trl
+pandas
+scikit-learn
+tqdm
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
